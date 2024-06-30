@@ -1,0 +1,33 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:black_dye",
+    "item:minecraft:gray_dye",
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:iron_ingot",
+      "amount": 64
+    }
+  ],
+  "craft_history": [
+    "minecraft:gray_dye",
+    "minecraft:black_dye",
+    "minecraft:white_dye",
+    "minecraft:spruce_stairs",
+    "minecraft:spruce_fence",
+    "minecraft:iron_trapdoor",
+    "minecraft:wooden_hoe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

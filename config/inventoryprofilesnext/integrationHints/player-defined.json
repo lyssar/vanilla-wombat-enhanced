@@ -1,0 +1,32 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": -5,
+                "top": 376
+            },
+            "PROFILE_SELECTOR": {
+                "bottom": 19
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -4
+            },
+            "SORT": {
+                "horizontalOffset": 12,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12,
+                "bottom": 8
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": -5,
+                "top": 379
+            }
+        }
+    }
+}
