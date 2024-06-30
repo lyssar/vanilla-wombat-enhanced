@@ -1,0 +1,38 @@
+#This should under no circumstances be set to true in modpacks
+#If set to true, the mod creates a new global folder, that is global for your user on your computer.
+#The created folders will be:
+# <user_home>/.minecraft_global_packs/required_datapacks
+# <user_home>/.minecraft_global_packs/optional_datapacks
+# <user_home>/.minecraft_global_packs/required_resourcepacks
+# <user_home>/.minecraft_global_packs/optional_resourcepacks
+enable_system_global_packs = false
+
+#This config allows you to add or remove folders or single files as Data-/Resourcepacks
+#For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
+#With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
+[resourcepacks]
+required = [
+    "global_packs/required_resources/Beautiful_Enchanted_Books_2.0.0.zip",
+    "global_packs/required_resources/Better+Lanterns+v1.2(mc-1.21).zip",
+    "global_packs/required_resources/Borderless+Glass+v1.0(mc-1.21).zip",
+    "global_packs/required_resources/Fancy Crops v1.0 f5-34.zip",
+    "global_packs/required_resources/Fast Better Grass.zip",
+    "global_packs/required_resources/Glowing-OF_v0.4.1-mc1.21.zip",
+    "global_packs/required_resources/Rethoughted Trident.zip",
+    "global_packs/required_resources/XKRD 红显v3.3for1.21.zip",
+    "global_packs/required_resources/§9RAY's§r 3D Rails.zip",
+    "global_packs/required_resources/§bRAY's§r 3D Ladders.zip",
+    "global_packs/required_resources/ReimaginedGUI(Dark) 1.21.zip",
+    "global_packs/required_resources/Alacrity 1.21 v27.zip",
+    "global_packs/required_resources/WombatAdditions.zip"
+]
+
+[datapacks]
+required = [
+    "resourcepacks/",
+    "global_packs/required_data/"
+]
+
+optional = [
+    "global_packs/optional_data/"
+]
