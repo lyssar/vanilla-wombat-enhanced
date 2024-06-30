@@ -1,5 +1,12 @@
 
 
+## [1.0.2](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.1...1.0.2) (2024-06-30)
+
+
+### Bug Fixes
+
+* disable horizon until litium is working again ([24549b9](https://github.com/lyssar/vanilla-wombat-enhanced/commit/24549b96aa947ce3a529878da2ec181bf1e23d36))
+
 ## [1.0.1](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.0...1.0.1) (2024-06-30)
 
 
