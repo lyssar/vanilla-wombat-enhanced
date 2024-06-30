@@ -1,3 +1,12 @@
+
+
+## [1.0.1](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.0...1.0.1) (2024-06-30)
+
+
+### Bug Fixes
+
+* disabled insidium to be able to use a usable sodium verion. ([#1](https://github.com/lyssar/vanilla-wombat-enhanced/issues/1)) ([94196fa](https://github.com/lyssar/vanilla-wombat-enhanced/commit/94196fa874d54b529b8db4014618d3c5327cf3b9))
+
 ## [1.0.0]() (2024-06-30)
 
 ### Features
