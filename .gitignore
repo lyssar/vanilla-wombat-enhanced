@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!/config
+!/mods
+!options.txt
+!/shaderpacks
+!/resourcepacks
+!CHANGELOG.md
+!README.md
+!LICENSE
