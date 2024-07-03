@@ -1,5 +1,12 @@
 
 
+# [1.1.0](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.2...1.1.0) (2024-07-03)
+
+
+### Features
+
+* removed continuity to fix crash issues with sodium; enabled sodium, iris and indium again; updated bunch of mods ([2c8c3dc](https://github.com/lyssar/vanilla-wombat-enhanced/commit/2c8c3dc39f3a3804590109b0b848d3098c9ba593))
+
 ## [1.0.2](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.1...1.0.2) (2024-06-30)
 
 
