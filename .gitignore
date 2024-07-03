@@ -16,3 +16,4 @@ servers.dat*
 usercache.json
 **/*rubymc.de*
 config/jade/usernamecache.json
+command_history.txt

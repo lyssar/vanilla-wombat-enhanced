@@ -1,22 +1,218 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:exposed_copper",
+        "amount": 3
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:spruce_fence",
+        "amount": 6
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:iron_ingot",
+        "amount": 64
+      }
+    },
+    {
+      "stack": "item:minecraft:emerald"
+    },
+    {
+      "stack": "item:minecraft:red_candle{\"minecraft:custom_name\":\u0027{\"color\":\"gold\",\"italic\":false,\"text\":\"Aktive Quest\"}\u0027,\"minecraft:hide_additional_tooltip\":{},\"minecraft:lore\":[\u0027{\"color\":\"gold\",\"extra\":[{\"color\":\"dark_gray\",\"text\":\"★★\"}],\"italic\":false,\"text\":\"★★★\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"yellow\",\"italic\":false,\"text\":\"🛈 Gib das gefragte Item aus\"}\u0027,\u0027{\"color\":\"yellow\",\"italic\":false,\"text\":\"deinem Inventar hier ab!\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"green\",\"translate\":\"block.minecraft.red_candle\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Item\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"green\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"#FFB800\",\"text\":\"26\"}],\"text\":\"/\"}],\"text\":\"0\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Eingereicht\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"gold\",\"extra\":[{\"color\":\"white\",\"font\":\"rubymc:chat_icons\",\"text\":\"\"}],\"text\":\"110\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Belohnung\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"dark_gray\",\"italic\":false,\"text\":\"Klicke um einzureichen\"}\u0027]}"
+    },
+    {
+      "stack": "item:minecraft:candle"
+    },
+    {
+      "stack": "item:minecraft:warped_pressure_plate"
+    }
+  ],
   "lookup_history": [
-    "item:minecraft:black_dye",
-    "item:minecraft:gray_dye",
+    {
+      "type": "item",
+      "id": "minecraft:glass",
+      "amount": 23
+    },
+    "item:minecraft:candle",
+    "item:minecraft:red_candle{\"minecraft:custom_name\":\u0027{\"color\":\"gold\",\"italic\":false,\"text\":\"Aktive Quest\"}\u0027,\"minecraft:hide_additional_tooltip\":{},\"minecraft:lore\":[\u0027{\"color\":\"gold\",\"extra\":[{\"color\":\"dark_gray\",\"text\":\"★★\"}],\"italic\":false,\"text\":\"★★★\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"yellow\",\"italic\":false,\"text\":\"🛈 Gib das gefragte Item aus\"}\u0027,\u0027{\"color\":\"yellow\",\"italic\":false,\"text\":\"deinem Inventar hier ab!\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"green\",\"translate\":\"block.minecraft.red_candle\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Item\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"green\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"#FFB800\",\"text\":\"26\"}],\"text\":\"/\"}],\"text\":\"0\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Eingereicht\"}\u0027,\u0027{\"color\":\"gray\",\"extra\":[{\"color\":\"dark_gray\",\"extra\":[{\"color\":\"gold\",\"extra\":[{\"color\":\"white\",\"font\":\"rubymc:chat_icons\",\"text\":\"\"}],\"text\":\"110\"}],\"text\":\": \"}],\"italic\":false,\"text\":\"Belohnung\"}\u0027,\u0027{\"italic\":false,\"text\":\"\"}\u0027,\u0027{\"color\":\"dark_gray\",\"italic\":false,\"text\":\"Klicke um einzureichen\"}\u0027]}",
     {
       "type": "item",
       "id": "minecraft:stick",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:gold_ingot",
       "amount": 4
+    },
+    "item:minecraft:jukebox",
+    "item:minecraft:lead",
+    {
+      "type": "item",
+      "id": "minecraft:iron_block",
+      "amount": 64
     },
     {
       "type": "item",
       "id": "minecraft:iron_ingot",
       "amount": 64
-    }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tuff",
+      "amount": 64
+    },
+    "item:minecraft:lime_dye",
+    {
+      "type": "item",
+      "id": "minecraft:purpur_pillar",
+      "amount": 2
+    },
+    "item:minecraft:green_dye",
+    "item:minecraft:cyan_dye",
+    "item:minecraft:cyan_stained_glass",
+    {
+      "type": "item",
+      "id": "minecraft:packed_mud",
+      "amount": 64
+    },
+    "item:minecraft:cauldron",
+    "item:minecraft:mud",
+    {
+      "type": "item",
+      "id": "minecraft:hay_block",
+      "amount": 24
+    },
+    {
+      "type": "item",
+      "id": "minecraft:amethyst_block",
+      "amount": 64
+    },
+    "item:minecraft:grindstone",
+    {
+      "type": "item",
+      "id": "minecraft:campfire",
+      "amount": 53
+    },
+    "item:minecraft:prismarine_shard",
+    "item:minecraft:prismarine",
+    "item:minecraft:tide_armor_trim_smithing_template",
+    "item:minecraft:bolt_armor_trim_smithing_template",
+    "item:minecraft:flow_armor_trim_smithing_template",
+    "item:minecraft:danger_pottery_sherd",
+    "item:minecraft:mourner_pottery_sherd",
+    "item:minecraft:brush",
+    "item:minecraft:honey_block",
+    "item:minecraft:mace",
+    {
+      "type": "item",
+      "id": "minecraft:copper_block",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:dandelion",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:azure_bluet",
+      "amount": 3
+    },
+    "item:minecraft:light_gray_dye",
+    {
+      "type": "item",
+      "id": "minecraft:gray_dye",
+      "amount": 3
+    },
+    "item:minecraft:gray_carpet",
+    {
+      "type": "item",
+      "id": "minecraft:spruce_planks",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:copper_ingot",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:lantern",
+      "amount": 4
+    },
+    "item:minecraft:black_dye"
   ],
   "craft_history": [
+    "minecraft:tinted_glass",
+    "minecraft:red_candle",
+    "minecraft:red_dye_from_poppy",
+    "minecraft:candle",
+    "minecraft:ladder",
+    "minecraft:stick",
+    "minecraft:spruce_planks",
+    "minecraft:gold_ingot_from_nuggets",
+    "minecraft:magma_block",
+    "minecraft:diamond_sword",
+    "minecraft:golden_apple",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_pickaxe",
+    "minecraft:oak_fence",
+    "minecraft:oak_planks",
+    "minecraft:jukebox",
+    "minecraft:lead",
+    "minecraft:iron_block",
+    "minecraft:oak_wood",
+    "minecraft:oak_fence_gate",
+    "minecraft:lime_dye",
+    "minecraft:shulker_box",
+    "minecraft:waxed_copper_block_from_honeycomb",
+    "minecraft:dye_gray_carpet",
     "minecraft:gray_dye",
     "minecraft:black_dye",
+    "minecraft:moss_carpet",
+    "minecraft:cyan_stained_glass",
+    "minecraft:cyan_dye",
+    "minecraft:blue_dye",
+    "minecraft:mud_bricks",
+    "minecraft:packed_mud",
+    "minecraft:wheat",
+    "minecraft:cauldron",
+    "minecraft:amethyst_block",
+    "minecraft:hay_block",
+    "minecraft:grindstone",
+    "minecraft:bone_meal",
+    "minecraft:campfire",
+    "minecraft:bolt_armor_trim_smithing_template",
+    "minecraft:brush",
+    "minecraft:honey_block",
+    "minecraft:chest",
+    "minecraft:copper_block",
+    "minecraft:dye_light_gray_carpet",
+    "minecraft:light_gray_dye_from_black_white_dye",
+    "minecraft:light_gray_dye_from_gray_white_dye",
+    "minecraft:light_gray_dye_from_azure_bluet",
+    "minecraft:brown_carpet",
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_wood",
+    "minecraft:acacia_trapdoor",
+    "minecraft:acacia_planks",
+    "minecraft:iron_bars",
+    "minecraft:hopper",
+    "minecraft:lever",
+    "minecraft:lightning_rod",
+    "minecraft:copper_ingot_from_waxed_copper_block",
+    "minecraft:lantern",
+    "minecraft:iron_ingot_from_nuggets",
+    "minecraft:iron_nugget",
     "minecraft:white_dye",
     "minecraft:spruce_stairs",
     "minecraft:spruce_fence",
