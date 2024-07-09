@@ -1,5 +1,15 @@
 
 
+# [1.2.0](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.1.0...1.2.0) (2024-07-09)
+
+
+### Features
+
+* added new shader bliss and configured as default. ([6290f18](https://github.com/lyssar/vanilla-wombat-enhanced/commit/6290f1873dbdec3dc16f89e198322ee6375828f0))
+* added matching texture pack "rotrBLOCKS"
+* tweaked shader configs to be more emmersive
+* updated various mods to the newest version
+
 # [1.1.0](https://github.com/lyssar/vanilla-wombat-enhanced/compare/1.0.2...1.1.0) (2024-07-03)
 
 
