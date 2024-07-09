@@ -1,7 +1,7 @@
 version:3953
 ao:true
-biomeBlendRadius:2
-enableVsync:true
+biomeBlendRadius:3
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:0.5
+gamma:0.4
 graphicsMode:1
 guiScale:3
 maxFps:150
@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/EnderEyes_1.21_v3.1.zip","file/enchant icons 1.21 v1.3.zip","minecraft:supporteatinganimation","file/ReimaginedGUI(Dark) 1.21.zip","file/Fancy Crops v1.0 f5-34.zip","file/Fast Better Grass.zip","file/Beautiful_Enchanted_Books_2.0.0.zip","file/Warden Totem - 1.20+.zip","file/Redstone Tweaks.zip","file/Redstone Tweaks 2.4.4.zip","file/WombatAdditions.zip"]
-incompatibleResourcePacks:["balm-fabric","controlling","inventoryessentials","resourcify","searchables","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Warden Totem - 1.20+.zip","file/Redstone Tweaks.zip","file/Redstone Tweaks 2.4.4.zip"]
+incompatibleResourcePacks:["balm-fabric","clientsort","controlling","distanthorizons","inventoryessentials","resourcify","searchables","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Warden Totem - 1.20+.zip","file/Redstone Tweaks.zip","file/Redstone Tweaks 2.4.4.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -126,6 +126,7 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_axiom.keybind.context:key.keyboard.left.alt
 key_axiom.keybind.builder_tool_slot:key.keyboard.0
 key_axiom.keybind.orbit_camera:key.keyboard.unknown
+key_axiom.keybind.jump_to_block:key.keyboard.unknown
 key_axiom.keybind.toggle_editor_ui:key.keyboard.right.shift
 key_axiom.keybind.toggle_no_clip_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_angel_placement_cap:key.keyboard.unknown
@@ -216,7 +217,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.21500931291390732
+soundCategory_master:0.6414024624084896
 soundCategory_music:0.06807511737089206
 soundCategory_record:0.04929577464788732
 soundCategory_weather:1.0

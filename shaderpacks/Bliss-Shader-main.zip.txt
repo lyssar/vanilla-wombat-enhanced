@@ -1,0 +1,4 @@
+#Tue Jul 09 16:27:03 CEST 2024
+CloudLayer0_height=120
+CloudLayer2_coverage=0.7
+RAYMARCH_CLOUDS_WITH_FOG=true

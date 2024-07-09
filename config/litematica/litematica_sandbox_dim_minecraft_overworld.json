@@ -17,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "Unnamed",
-    "current": "Unnamed",
+    "name": "rubymc_steampunk_xpfarm",
+    "current": "rubymc_steampunk_xpfarm",
     "boxes": [
       {
         "pos1": [
-          -880,
-          62,
-          621
+          -821,
+          83,
+          653
         ],
         "pos2": [
-          -883,
-          61,
-          621
+          -744,
+          36,
+          706
         ],
-        "name": "Unnamed"
+        "name": "rubymc_steampunk_xpfarm"
       }
     ]
   },
